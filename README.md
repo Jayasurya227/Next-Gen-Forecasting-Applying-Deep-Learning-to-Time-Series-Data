@@ -1,4 +1,4 @@
-Stock_Price_Prediction_NIfty_50 
+#Stock_Price_Prediction_NIfty_50 
 # Next-Gen Forecasting: Applying Deep Learning to Time Series Data 💹
 
 This project demonstrates the application of deep learning, specifically Long Short-Term Memory (LSTM) networks, for time series forecasting. The goal is to predict future NIFTY 50 stock index closing prices based on historical data.
